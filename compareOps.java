@@ -1,0 +1,10 @@
+package PlainEnglish.AST;
+
+public enum compareOps {
+    doubleequal,
+    notequal,
+    lessthanequal,
+    greaterthanequal,
+    greaterthan,
+    lessthan
+}
