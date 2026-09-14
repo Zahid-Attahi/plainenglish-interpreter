@@ -1,0 +1,7 @@
+package PlainEnglish.AST;
+
+public enum plusORhyphen
+{
+    plus,
+    hyphen
+}
