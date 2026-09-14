@@ -146,7 +146,7 @@ For example:
 ```text
 ICSI 311/
 ├── junit-platform-console-standalone-1.8.2.jar
-└── plainEnglish 2/
+└── plainEnglish Interpreter/
 ```
 
 ### Compile
